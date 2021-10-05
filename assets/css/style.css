@@ -1,0 +1,12 @@
+body{
+    margin: 0%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
